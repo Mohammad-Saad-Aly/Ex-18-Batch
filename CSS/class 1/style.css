@@ -1,0 +1,55 @@
+/* h1{
+    background-color: aquamarine;
+    color: red;
+}
+
+#abc,#abc2{
+    background-color: yellow;
+    color: blue;
+} */
+/* 
+body{
+    background-color: black;
+}
+
+h1{
+    background-color: #ffff;
+    color: white;
+}
+
+.abc{
+    background-color: yellow;
+    color: blue;
+} */
+
+/* *{  
+
+    background-color: black;
+    color: yellow;
+}
+
+h1{
+    background-color: aqua;
+}
+
+a{
+    background-color: green;
+} */
+
+
+
+
+h1.abc{
+    background-color: rgba(255, 45, 45,0.6);
+    /* background-color: black;
+    opacity: 0.5; */
+}
+
+
+
+
+
+
+
+
+
