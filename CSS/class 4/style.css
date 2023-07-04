@@ -1,0 +1,27 @@
+ul>li {
+    display: inline-block;
+    /* background-color: aqua; */
+    width: 200px;
+}
+
+/* #abc{
+    visibility: hidden;
+} */
+
+
+
+
+
+
+.main {
+    width: 50%;
+    background-color: black;
+    color: red;
+    margin: auto;
+    padding: 30px;
+    box-shadow: 10px 10px 5px yellow;
+    border: 5px solid blue;
+    border-radius: 50px;
+    /* height: 100px; */
+    /* overflow: scroll; */
+}
