@@ -1,0 +1,74 @@
+/* body{
+    background-color: gray;
+}
+.black{
+ 
+    
+    display: inline-block;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+.white{
+    
+    display: inline-block;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+
+img{
+    z-index: 1;
+    position: relative; */
+    /* top: -104px; */
+    /* position: relative;
+    top: -100px; */
+    /* position: absolute;
+    top: 8px;
+    right: 70px; */
+    /* left: 88px; */
+/* }
+
+ul{
+    background-color: yellow;
+    position: sticky;
+    top: 0;
+}
+
+
+ul > li {
+    display: inline-block;
+    width: 100px;
+} */
+.abc{
+    background-color: aqua;
+    width: 30%;
+    float: left;
+}
+
+.def{
+    float: left;
+    width: 30%;
+    background-color: yellow;
+}
+
+p{
+    clear: both;
+}
+
+
+
+
+
+img{
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+}
+
+
+
+
+
+
+
