@@ -1,0 +1,35 @@
+.main{
+    display: flex;
+    flex-direction:row;
+    background-color: black;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    /* justify-content: flex-end; */
+    /* justify-content: space-around; */ 
+    /* justify-content: space-between; */
+    /* justify-content: space-evenly; */
+
+}
+
+.one{
+    background-color: aqua;
+    align-self: flex-end;
+}
+.two{
+    background-color: yellow;
+    order: 1;
+}
+.three{
+    order: -2;
+    background-color: lightgreen;
+}
+.four{
+    order: -1;
+    background-color: brown;
+}
+.five{
+    order: 7;
+    background-color: blue;
+}
