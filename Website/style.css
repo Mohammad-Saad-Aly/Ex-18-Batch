@@ -1,0 +1,9 @@
+.card:hover{
+    transform: scale(1.1);
+    transition: 2s;
+}
+nav{
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 1;
+}
