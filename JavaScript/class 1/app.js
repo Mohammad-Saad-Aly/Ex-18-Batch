@@ -31,8 +31,8 @@
 // var num2 = "4"
 
 // document.write(num1 - num2)
-var num1 = "5"
-var num2 = 10
+// var num1 = "5"
+// var num2 = 10
 // var add = num1 + num2
 // var sub = num1 - num2
 // var div = num1 / num2
@@ -41,9 +41,9 @@ var num2 = 10
 // document.write(add,"<br>",sub,"<br>",div,"<br>",mul,"<br>")
 
 
-var a = +prompt('KUCH BHI')
-var a = prompt('KUCH BHI')
-document.write(typeof(a))
+// var a = +prompt('KUCH BHI')
+// var a = prompt('KUCH BHI')
+// document.write(typeof(a))
 
 
 
@@ -51,15 +51,45 @@ document.write(typeof(a))
 
 
 
-calculator
+// calculator
 
-prompt()
-add 
-sub 
-mul
-div 
+// prompt()
+// add 
+// sub 
+// mul
+// div 
 
-print in <table></table>
+// print in <table></table>
+
+document.write('<h1>'+'hello world'+'</h1>')
+
+
+
+var num1 = +prompt('Enter Value 1')
+var num2= +prompt('Enter Value 2')
+
+var add = num1 + num2
+var sub = num1 - num2
+var div = num1 / num2
+var mul = num1 * num2
+
+
+
+document.write("ADD ==> "+add)
+
+document.write('<table border="1">'+
+'<tr>'+'<th>'+'ADD'+'</th>'+'<th>'+'SUB'+'</th>'+'<th>'+'DIV'+'</th>'+'<th>'+'MUL'+'</th>'+'</tr>'+
+'<tr>'+'<td>'+add+'</td>'+'<td>'+sub+'</td>'+'<td>'+div+'</td>'+'<td>'+mul+'</td>'+'</tr>'
+
+
++'</table>')
+
+
+
+
+
+
+
 
 
 
